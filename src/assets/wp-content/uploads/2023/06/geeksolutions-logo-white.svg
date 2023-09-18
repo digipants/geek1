@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg686"
-   width="234.33078"
-   height="159.19266"
-   viewBox="0 0 234.33078 159.19266"
+   width="205.9648"
+   height="128.36"
+   viewBox="0 0 205.9648 128.36"
    sodipodi:docname="Geek_Squad.eps"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,22 +28,17 @@
      id="g694"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,-11.338547,208.1)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-25.521866,192.68399)">
     <g
        id="g696"
        transform="scale(0.1)">
       <path
-         d="M 0,1927.56 H 1927.56 V 0 H 0 v 1927.56"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path698" />
-      <path
          d="m 963.777,482.43 c 426.563,0 772.373,215.625 772.373,481.496 0,265.724 -345.81,481.204 -772.373,481.204 -426.613,0 -772.363,-215.48 -772.363,-481.204 0,-265.871 345.75,-481.496 772.363,-481.496"
          style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path700" />
-      <path
-         d="m 963.809,367.258 v -0.453 h -0.09 v 0.453 C 731.195,367.27 519.363,426.871 364.844,523.207 192.227,630.832 85.4609,786.25 85.4531,963.91 h -0.414 v 0.016 0.023 h 0.414 c 0.0117,177.601 106.7739,332.931 279.3829,440.491 154.535,96.29 366.379,155.86 598.914,155.86 v 0.45 h 0.027 0.059 v -0.45 c 232.494,-0.01 444.324,-59.57 598.864,-155.86 172.62,-107.55 279.4,-262.89 279.41,-440.495 h 0.41 v -0.019 -0.02 h -0.41 C 1842.09,786.242 1735.32,630.832 1562.7,523.215 1408.17,426.867 1196.32,367.262 963.809,367.258"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path702" />
+         id="path700"
+         inkscape:export-filename="geek-logo.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <path
          d="m 963.777,482.43 c 426.563,0 772.373,215.625 772.373,481.496 0,265.724 -345.81,481.204 -772.373,481.204 -426.613,0 -772.363,-215.48 -772.363,-481.204 0,-265.871 345.75,-481.496 772.363,-481.496"
          style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
